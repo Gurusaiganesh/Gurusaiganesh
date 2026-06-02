@@ -106,18 +106,6 @@ print(me.motto())
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-0d1117?style=flat-square&logo=jira&logoColor=38BDAE)
 ![REST API](https://img.shields.io/badge/REST%20API-0d1117?style=flat-square&logo=fastapi&logoColor=white)
 
------
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Gurusaiganesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gurusaiganesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurusaiganesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurusaiganesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
-</div>
 
 -----
 
@@ -135,13 +123,6 @@ print(me.motto())
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurusaiganesh&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
------
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gurusaiganesh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
-</div>
 
 -----
 
